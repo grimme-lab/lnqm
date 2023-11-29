@@ -1,0 +1,13 @@
+name: lnqm
+channels:
+  - conda-forge
+  - defaults
+  - pyg
+dependencies:
+  - python=3.11.4
+  - h5py
+  - pytorch
+  - pydantic
+  - pip
+  - pip:
+    - torch_geometric
