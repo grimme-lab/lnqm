@@ -12,7 +12,7 @@ This is the offical repository of the `LnQM` dataset developed by the Grimme gro
 
 # Data
 
-The data is available under: [https://zenodo.org/records/10222384](https://zenodo.org/records/10222384)
+The data is available under: [https://zenodo.org/records/10406124](https://zenodo.org/records/10406124)
 
 
 # Setup
