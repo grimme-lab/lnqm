@@ -51,9 +51,9 @@ sample = LnQM_Sample(**data)
 # Citations
 
 When using or referencing to the `LnQM` please cite:
-- C. Hölzer, I. Gordiy, S. Grimme, M. Bursch
-  ... tbd ...
-
+- C. Hölzer, I. Gordiy, S. Grimme, M. Bursch, *J. Chem. Inf. Model.*, **2024**, 1549-9596.
+  DOI: [10.1021/acs.jcim.3c01832](https://doi.org/10.1021/acs.jcim.3c01832)
+  
 # License
 
 [![CC BY NC 4.0][cc-by-nc-image]][cc-by-nc]
